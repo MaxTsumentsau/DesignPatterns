@@ -3,13 +3,11 @@ package pattern.builder;
 import java.util.Objects;
 
 public class Car {
-    // Обязательные поля
     private final String vin;          // VIN номер
     private final String brand;        // марка
     private final String model;        // модель
     private final int year;            // год выпуска
 
-    // Необязательные поля
     private String color = "White";           // цвет
     private String engineType = "Petrol";     // тип двигателя
     private Double engineVolume = null;       // объем двигателя
