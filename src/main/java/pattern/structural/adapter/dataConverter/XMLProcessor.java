@@ -1,4 +1,4 @@
-package pattern.structural.adapter;
+package pattern.structural.adapter.dataConverter;
 
 class XMLProcessor {
     public void parseXML(String xmlData) {
