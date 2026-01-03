@@ -1,4 +1,4 @@
-package pattern.structural.proxy;
+package pattern.structural.proxy.bank;
 
 public class Runner {
     public static void main(String[] args) {

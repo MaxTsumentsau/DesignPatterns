@@ -1,4 +1,4 @@
-package pattern.structural.proxy;
+package pattern.structural.proxy.bank;
 
 class RealBankAccount implements BankAccount {
     private double balance;
