@@ -1,4 +1,4 @@
-package pattern.structural.decorator;
+package pattern.structural.decorator.notifier;
 
 class SMSDecorator extends NotifierDecorator {
     public SMSDecorator(Notifier notifier) {

@@ -1,4 +1,4 @@
-package pattern.structural.decorator;
+package pattern.structural.decorator.notifier;
 
 public class Runner {
     public static void main(String[] args) {

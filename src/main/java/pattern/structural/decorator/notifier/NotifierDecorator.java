@@ -1,4 +1,4 @@
-package pattern.structural.decorator;
+package pattern.structural.decorator.notifier;
 
 abstract class NotifierDecorator implements Notifier {
     protected Notifier notifier;

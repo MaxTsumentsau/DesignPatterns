@@ -1,4 +1,4 @@
-package pattern.structural.decorator;
+package pattern.structural.decorator.notifier;
 
 class SlackDecorator extends NotifierDecorator {
     public SlackDecorator(Notifier notifier) {
