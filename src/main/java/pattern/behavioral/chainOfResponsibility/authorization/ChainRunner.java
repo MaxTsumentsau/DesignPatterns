@@ -1,4 +1,4 @@
-package pattern.behavioral.chainOfResponsibility;
+package pattern.behavioral.chainOfResponsibility.authorization;
 
 public class ChainRunner {
     public static void main(String[] args) {

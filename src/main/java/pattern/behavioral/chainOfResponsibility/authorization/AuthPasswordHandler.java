@@ -1,4 +1,4 @@
-package pattern.behavioral.chainOfResponsibility;
+package pattern.behavioral.chainOfResponsibility.authorization;
 
 class AuthPasswordHandler extends AuthHandler {
     @Override

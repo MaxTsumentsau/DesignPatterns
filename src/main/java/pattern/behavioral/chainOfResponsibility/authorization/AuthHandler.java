@@ -1,4 +1,4 @@
-package pattern.behavioral.chainOfResponsibility;
+package pattern.behavioral.chainOfResponsibility.authorization;
 
 abstract class AuthHandler {
     protected AuthHandler nextHandler;
